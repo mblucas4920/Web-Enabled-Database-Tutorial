@@ -1,7 +1,8 @@
 Youtube Link to Capstone Exposition Demonstration -> https://youtu.be/1XHRuyG86N4
 
 # REQUIREMENTS:
-XAMPP Control Panel; Apache; MySQL.
+XAMPP Control Panel; Apache; MySQL
+
 Download XAMPP here -> https://www.apachefriends.org/download.html
 
 **Local environment only!**
