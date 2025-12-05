@@ -1,5 +1,6 @@
 # Web-Enabled-Database-Tutorial
 The web enabled database tutorial is built in PHP and hosted via XAMMP. The website exists as “PHP-MySQL-Tutorials” with fully implemented CSS. Another version exists as “PHP-MySQL-Tutorials-minCSS” with minimum CSS intended to only manage the basic layout of the websites content.
+
 **Index/Landing Page:**
 Displays the website overview.
 The goal of this website is to demonstrate how to utilize PHP to connect a website to a MySQL Database. This website will also demonstrate how to perform CRUD operations and to also generate various types of graphs based on data drawn from the database.
