@@ -8,8 +8,11 @@ Download XAMPP here -> https://www.apachefriends.org/download.html
 **Local environment only!**
 
 Add the following user to XAMPP MySQL ADmin -
+
 servername: localhost
+
 username: myusername
+
 password: myPassword
 
 # Web-Enabled-Database-Tutorial
